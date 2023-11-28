@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+#clearbutton{
+    width: 253px;
+    background-color: aqua;
+    
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #032030;
+   
+}
+
+.calculator{
+     width: 253px; 
+     height: 300px; 
+     margin: auto;
+     padding: 5px; 
+     border: 2px solid white; 
+     background: black;
+}
+
+input{
+    width: 60px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+
+#displaybutton{
+    width: 252px;
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: right;
+    
+    
+}
